@@ -15,11 +15,11 @@ At the end, we should have something that looks a little like this… Explore [h
 
 ### 📑 Slides
 Explore the presentation slides for the workshop:  
-[Geospatial Risk Summit 2025 Slides](https://docs.google.com/presentation/d/1TCFY2r8VWBF4a7eytegrn9VAo53XXcV4zTjzYpco0lY/edit#slide=id.g3275b53b6fc_0_558)
+[Geospatial Risk Summit 2025 Slides](https://docs.google.com/presentation/d/1TCFY2r8VWBF4a7eytegrn9VAo53XXcV4zTjzYpco0lY)
 
 ### 📝 Worksheet
 Follow along with this step-by-step guide:  
-[Workshop Worksheet](https://docs.google.com/document/d/1peCRJFLMNNbwBHkSy7gqCpsr-Y5YPIPUsN5CPyI0z2Q/edit?tab=t.0)
+[Workshop Worksheet](https://docs.google.com/document/d/1peCRJFLMNNbwBHkSy7gqCpsr-Y5YPIPUsN5CPyI0z2Q)
 
 ## Dataset to Download
 
