@@ -24,7 +24,7 @@ Follow along with this step-by-step guide:
 ## Dataset to Download
 
 To participate in the workshop, download the dataset below:  
-[Texas Property Assets Dataset (CSV)](https://raw.githubusercontent.com/TheDigitalGarbologist/GeospatailRiskSummit2025/refs/heads/main/Texas%20property%20assets.csv)
+[Texas Property Assets Dataset (CSV)](https://raw.githubusercontent.com/CartoDB/Geospatial-Risk-Summit-CARTO/refs/heads/main/Texas%20property%20assets.csv)
 
 ---
 
