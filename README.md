@@ -1,4 +1,4 @@
-# Scaling climate risk analysis with CARTO
+# Scaling Climate Risk Analysis with CARTO
 ## Geospatial Risk Summit, 2025
 
 Welcome to the **[CARTO](https://carto.com/) Geospatial Risk Summit 2025** workshop! Our goal is to build a **real-time dashboard** that tracks the **number and value of assets** in areas impacted by climate risks, updated daily. This workshop will guide you through creating insights that help mitigate and understand these risks.
