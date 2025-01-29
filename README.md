@@ -40,4 +40,4 @@ If you have any issues or feedback, feel free to reach out or open an issue in t
 
 
 For those interested in exploring the ability to plot this data and stylize a map with Carto Builder, download the dataset below and import into your Data Warehouse:  
-[Download Sample Risk Output Dataset (CSV)](https://raw.githubusercontent.com/CartoDB/Geospatial-Risk-Summit-CARTO/master/Texas%20property%20assets.csv)
+[Download Sample Risk Output Dataset (CSV)](https://raw.githubusercontent.com/CartoDB/Geospatial-Risk-Summit-CARTO/master/RiskSummitWorkshop_FinalTable.csv)
