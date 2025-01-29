@@ -21,7 +21,7 @@ Explore the presentation slides for the workshop:
 Follow along with this step-by-step guide:  
 [Workshop Worksheet](https://docs.google.com/document/d/1peCRJFLMNNbwBHkSy7gqCpsr-Y5YPIPUsN5CPyI0z2Q)
 
-## ⬇️ Dataset to Download
+## ⬇️ Datasets to Download
 
 To participate in the workshop, download the dataset below:  
 [Download Texas Property Assets Dataset (CSV)](https://raw.githubusercontent.com/CartoDB/Geospatial-Risk-Summit-CARTO/master/Texas%20property%20assets.csv)
@@ -37,3 +37,7 @@ New to CARTO? Get started with a free trial and learn the basics here:
 
 ---
 If you have any issues or feedback, feel free to reach out or open an issue in this repository!
+
+
+For those interested in exploring the ability to plot this data and stylize a map with Carto Builder, download the dataset below and import into your Data Warehouse:  
+[Download Sample Risk Output Dataset (CSV)](https://raw.githubusercontent.com/CartoDB/Geospatial-Risk-Summit-CARTO/master/Texas%20property%20assets.csv)
